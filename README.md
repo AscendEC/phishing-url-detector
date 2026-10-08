@@ -5,7 +5,7 @@ Paste a URL and a Random Forest model (trained on URL-only features) estimates t
 ## Files
 - `app.py` - Streamlit app
 - `features.py` - URL feature extraction (same code used in training)
-- `url_phishing_model.pkl` - trained model
+- `phishing_random_forest_model.pkl` - trained model
 - `requirements.txt` - pinned dependencies (scikit-learn must match the training version)
 
 ## Run locally
